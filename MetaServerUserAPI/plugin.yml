@@ -1,0 +1,4 @@
+name: MetaServerUserAPI
+version: 1.0
+author: Bugisoft
+main: fr.msua.main.MetaUserListener
